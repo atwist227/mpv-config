@@ -1,0 +1,4 @@
+# 复制为 mpv.local.conf，修改后重启 mpv。
+# ~ 表示用户主目录；请先创建截图文件夹。
+# Windows 路径使用 /，含空格时加双引号。
+screenshot-dir="~/Pictures/mpv-screenshots"

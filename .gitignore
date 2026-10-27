@@ -1,0 +1,29 @@
+# 第三方插件和字体按 README 单独安装
+/scripts/
+/fonts/
+/fonts.conf
+
+# 播放历史和运行缓存
+/cache/
+/watch_later/
+/danmaku-history.json
+/screenshots/
+*.log
+*.log.*
+
+# 本地私有文件和凭据
+*.local.conf
+*.private.conf
+.env
+.env.*
+cookies*.txt
+cookie*.txt
+*.bak
+*.backup
+*.tmp
+*.swp
+
+# 操作系统生成文件
+.DS_Store
+Thumbs.db
+Desktop.ini
